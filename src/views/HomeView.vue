@@ -62,7 +62,6 @@ const getSearchResult = () => {
         console.error('failed to reach api', error)
         searchError.value = true
       }
-      console.log('#4', isLoading.value)
       isLoading.value = false
       return
     }
