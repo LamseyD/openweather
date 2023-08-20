@@ -1,0 +1,4 @@
+/* include tailwind library*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
