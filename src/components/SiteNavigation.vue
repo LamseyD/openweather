@@ -27,7 +27,7 @@
 
 <script setup lang="ts">
 import { RouterLink } from 'vue-router'
-import BaseModal from './BaseModal.vue'
+import BaseModal from './BaseModal/BaseModal.vue'
 import { ref } from 'vue'
 
 // ref: similar to useState?
